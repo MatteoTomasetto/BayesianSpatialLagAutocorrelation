@@ -10,7 +10,7 @@ Bayesian estimation of a spatial-lag autocorrelation model to predict the confli
 - Model comparisons 
 
 
-## Author
+## Authors
 * [Matteo Tomasetto](https://github.com/MatteoTomasetto)
 * [Paolo Gerosa](https://github.com/PaoloGerosa)
 * [Laura Gamba](https://github.com/lauragamba)
