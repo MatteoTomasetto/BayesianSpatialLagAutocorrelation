@@ -9,7 +9,7 @@ model since they might be very meaningful to explain the target.
 
 ## Data
 
-`Data` folder contain the spatial dataset with the number of conflicts in 2015 and the covariates for each cell.
+`Data` folder contains the spatial dataset with the number of conflicts in 2015 and the covariates for each cell.
 
 ## Code
 
