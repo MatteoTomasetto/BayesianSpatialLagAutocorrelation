@@ -11,7 +11,7 @@ Bayesian estimation of a spatial-lag autocorrelation model to predict the confli
 
 
 ## Author
-* [Matteo Tomasetto] (https://github.com/MatteoTomasetto)
+* [Matteo Tomasetto](https://github.com/MatteoTomasetto)
 * [Paolo Gerosa](https://github.com/PaoloGerosa)
 * [Laura Gamba](https://github.com/lauragamba)
 * [Asia Salpa](https://github.com/asiasalpa)
