@@ -7,6 +7,10 @@ variables) and the target variable for each region.
 To properly model the impact of the exogenous variables on the number of conflicts in 2015 observed for each cell, we consider the spatial correlation of covariates and response variable; in other words, we include the effects of the neighboring cells in our
 model since they might be very meaningful to explain the target.
 
+## Data
+
+'Data' folder contain the spatial dataset with the number of conflicts in 2015 and the covariates for each cell.
+
 ## Code
 
 'Main.ipynb' contains the code to:
