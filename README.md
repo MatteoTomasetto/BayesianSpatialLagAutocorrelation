@@ -1,4 +1,4 @@
-# Bayesian-Estimation-Spatial-Lag-Autocorrelation-Model
+# Bayesian Spatial-Lag Autocorrelation Model
 Bayesian estimation of a spatial-lag autocorrelation model for the diffusion of conflicts in 2015 in a region near the
 lake Chad in Africa. The domain of interest is subdivided in 505 cells where we observe five covariates (urbanization, number of ethnic groups, harvested area
 per capita, water scarcity months and conflicts in 2014 are exogenous
