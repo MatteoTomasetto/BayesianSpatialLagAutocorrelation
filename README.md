@@ -1,4 +1,4 @@
-# Bayesian estimation of a spatial-lag autocorrelation model for human conflicts in lake Chad basin
+# Bayesian estimation of a spatial-lag autocorrelation model for human conflicts in Lake Chad basin
 Bayesian estimation of a spatial-lag autocorrelation model for the diffusion of conflicts in a region near the
 lake Chad in Africa in 2015. The domain of interest is subdivided in 505 cells where we observe five covariates (urbanization, number of ethnic groups, harvested area
 per capita, water scarcity months and conflicts in 2014 are exogenous
